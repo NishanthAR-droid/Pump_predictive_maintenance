@@ -45,6 +45,10 @@ The data pipeline successfully integrates various stages, beginning with importi
 
 The predictive capability of the model improves as historical data accumulates, allowing for more accurate long-term forecasts.
 
+##Snapshots
+![Dashboard Preview](Images/image1.png)
+
+
 ## Key Takeaways
 - **Real-time monitoring, anomaly detection, and predictive analytics** enhance operational efficiency.
 - **Database management ensures seamless data storage and retrieval** for better decision-making.
