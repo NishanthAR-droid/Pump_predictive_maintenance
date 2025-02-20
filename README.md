@@ -49,6 +49,9 @@ The predictive capability of the model improves as historical data accumulates, 
 ![Dashboard Preview](Images/image1.png)
 ![Dashboard Preview](Images/image2.png)
 ![Dashboard Preview](Images/image3.png)
+![Dashboard Preview](Images/image4.png)
+![Dashboard Preview](Images/image5.png)
+
 
 
 ## Key Takeaways
