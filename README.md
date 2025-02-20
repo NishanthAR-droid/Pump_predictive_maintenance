@@ -49,14 +49,18 @@ The predictive capability of the model improves as historical data accumulates, 
 #### Dashboard showing actual status of Pump Power Consumption
 ![Dashboard Preview](Images/image1.png)
 
+#### Dashboard showing actual status of Pump Temperature
 ![Dashboard Preview](Images/image2.png)
-### Dashboard showing actual status of Pump Temperature
+
+#### Dashboard showing forecasted status of Pump Vibration
 ![Dashboard Preview](Images/image3.png)
-### Dashboard showing forecasted status of Pump Vibration
+
+#### Dashboard showing log file of alarms
 ![Dashboard Preview](Images/image4.png)
-### Dashboard showing log file of alarms
+
+#### Glimpse of data uploaded to SQL database server
 ![Dashboard Preview](Images/image5.png)
-### Glimpse of data uploaded to SQL database server
+
 
 
 ## Key Takeaways
