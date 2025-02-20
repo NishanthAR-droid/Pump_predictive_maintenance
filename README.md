@@ -45,8 +45,10 @@ The data pipeline successfully integrates various stages, beginning with importi
 
 The predictive capability of the model improves as historical data accumulates, allowing for more accurate long-term forecasts.
 
-##Snapshots
+## Snapshots
 ![Dashboard Preview](Images/image1.png)
+![Dashboard Preview](Images/image2.png)
+![Dashboard Preview](Images/image3.png)
 
 
 ## Key Takeaways
